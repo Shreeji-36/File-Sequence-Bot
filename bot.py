@@ -29,7 +29,7 @@ from pymongo import MongoClient
 
 #=========== configurations ===========
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8411778153:AAG4yI8fjrMJkGLn4KQ4oVciSkVW0D3KuDk")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "7548602942:AAH2ALGFpUMsv4KgeJ_JuEFy3xx9jFOZdzo")
 PHOTO_MAIN = "https://ibb.co/0pp4v8xM"
 PHOTO_HELP = "https://ibb.co/0pp4v8xM"
 RESTART_PHOTO_ID = "https://ibb.co/Z6KmPCsX"
