@@ -34,7 +34,7 @@ PHOTO_MAIN = "https://ibb.co/0pp4v8xM"
 PHOTO_HELP = "https://ibb.co/0pp4v8xM"
 RESTART_PHOTO_ID = "https://ibb.co/Z6KmPCsX"
 PHOTO_STATUS = "https://ibb.co/nq9MnMkj"
-OWNER_ID = int(os.getenv("OWNER_ID", "7816936715"))
+OWNER_ID = int(os.getenv("OWNER_ID", "7355641270"))
 MONGO_URI = os.getenv("MONGO_URI", "mongodb+srv://Galaxy_Network:Zlqz3sLOMyAaOlT5@cluster0.prfw2el.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DB_NAME = os.getenv("DB_NAME", "Nami_File_Sequence_Bot")
 
