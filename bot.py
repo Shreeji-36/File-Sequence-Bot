@@ -1391,7 +1391,7 @@ async def handle_callbacks(update: Update, context: ContextTypes.DEFAULT_TYPE):
                     "2. Sᴏʀᴛ ꜰɪʟᴇs ʙʏ ᴇᴘɪsᴏᴅᴇ ɴᴜᴍʙᴇʀ.\n"
                     "3. Cᴜsᴛᴏᴍ Dᴜᴍᴘ Cʜᴀɴɴᴇʟ,ᴄᴀᴘᴛɪᴏɴs ᴀɴᴅ sᴛɪᴄᴋᴇʀs sᴜᴘᴘᴏʀᴛ.\n"
                     "4. Cʟᴇᴀʀ ʏᴏᴜʀ ǫᴜᴇᴜᴇ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴀꜰᴛᴇʀ ᴘʀᴏᴄᴇssɪɴɢ.</blockquote>\n\n"
-                    "<blockquote>Cᴏɴᴛᴀᴄᴛ Fᴏʀ Mᴏᴅɪꜰɪᴄᴀᴛɪᴏɴꜱ - @ITSANIMEN</blockquote>"
+                    "<blockquote>Cᴏɴᴛᴀᴄᴛ Fᴏʀ Mᴏᴅɪꜰɪᴄᴀᴛɪᴏɴꜱ - @Prince_Vegeta_36</blockquote>"
 
 
                 ),
@@ -1412,7 +1412,7 @@ async def handle_callbacks(update: Update, context: ContextTypes.DEFAULT_TYPE):
                     "ʜᴀssʟᴇ. Sᴀʏ ɢᴏᴏᴅʙʏᴇ ᴛᴏ ᴍᴇssʏ ꜰɪʟᴇ ɴᴀᴍᴇs ᴀɴᴅ ᴄᴏɴꜰᴜsɪɴɢ \n"
                     "ʀᴇsᴏʟᴜᴛɪᴏɴs – ᴡᴇ’ᴠᴇ ɢᴏᴛ ʏᴏᴜ ᴄᴏᴠᴇʀᴇᴅ!</blockquote>\n\n"
                     "<blockquote><b>◈ MAINTAINED BY : "
-                    "<a href='https://t.me/ITSANIMEN'>彡 ΔNI_OTΔKU 彡</a>"
+                    "<a href='https://t.me/Prince_Vegeta_36'>𝗖𝗵𝗿𝗼𝗹𝗹𝗼 𝗟𝘂𝗰𝗶𝗹𝗳𝗲𝗿</a>"
                     "</b></blockquote>"
                 ),
                 parse_mode=constants.ParseMode.HTML
