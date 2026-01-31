@@ -491,7 +491,7 @@ def start_keyboard():
         [
             [
                 InlineKeyboardButton("ԋҽʅρ", callback_data="help_text"),
-                InlineKeyboardButton("Dҽʋҽʅσρҽɾ", url="https://t.me/ITSANIMEN")
+                InlineKeyboardButton("Dҽʋҽʅσρҽɾ", url="https://t.me/Prince_Vegeta_36")
             ],
             [
                 InlineKeyboardButton("Cԋαɳɳҽʅ", url="https://t.me/BotifyX_Pro")
@@ -537,7 +537,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
             "ʜᴀssʟᴇ. Sᴀʏ ɢᴏᴏᴅʙʏᴇ ᴛᴏ ᴍᴇssʏ ꜰɪʟᴇ ɴᴀᴍᴇs ᴀɴᴅ ᴄᴏɴꜰᴜsɪɴɢ \n"
             "ʀᴇsᴏʟᴜᴛɪᴏɴs – ᴡᴇ’ᴠᴇ ɢᴏᴛ ʏᴏᴜ ᴄᴏᴠᴇʀᴇᴅ!</blockquote>\n\n"
             "<blockquote><b>➥ MAINTAINED BY : "
-            "<a href='https://t.me/ITSANIMEN'>彡 ΔNI_OTΔKU 彡</a>"
+            "<a href='https://t.me/Prince_Vegeta_36'>彡 ΔNI_OTΔKU 彡</a>"
             "</b></blockquote>"
         ),
         reply_markup=start_keyboard(),
