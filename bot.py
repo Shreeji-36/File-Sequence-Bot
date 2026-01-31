@@ -537,7 +537,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
             "ʜᴀssʟᴇ. Sᴀʏ ɢᴏᴏᴅʙʏᴇ ᴛᴏ ᴍᴇssʏ ꜰɪʟᴇ ɴᴀᴍᴇs ᴀɴᴅ ᴄᴏɴꜰᴜsɪɴɢ \n"
             "ʀᴇsᴏʟᴜᴛɪᴏɴs – ᴡᴇ’ᴠᴇ ɢᴏᴛ ʏᴏᴜ ᴄᴏᴠᴇʀᴇᴅ!</blockquote>\n\n"
             "<blockquote><b>➥ MAINTAINED BY : "
-            "<a href='https://t.me/Prince_Vegeta_36'>彡 ΔNI_OTΔKU 彡</a>"
+            "<a href='https://t.me/Prince_Vegeta_36'>𝗖𝗵𝗿𝗼𝗹𝗹𝗼 𝗟𝘂𝗰𝗶𝗹𝗳𝗲𝗿</a>"
             "</b></blockquote>"
         ),
         reply_markup=start_keyboard(),
