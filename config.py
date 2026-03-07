@@ -3,7 +3,7 @@ from os import environ
 
 TG_BOT_TOKEN = os.environ.get("BOT_TOKEN", "7548602942:AAH2ALGFpUMsv4KgeJ_JuEFy3xx9jFOZdzo")
 APP_ID = int(os.environ.get("APP_ID", "2355"))
-API_HASH = os.environ.get("API_HASH", "4vsavkjahvsdhk")
+API_HASH = os.environ.get("API_HASH", "a0b76b9ff89c3f30adbb2696438c6581")
 OWNER_ID = int(os.environ.get("OWNER_ID", "5741918628"))
 PORT = os.environ.get("PORT", "8080")
 DB_URL = os.environ.get("DB_URI", "mongodb+srv://odb.net/?retryWrites=true&w=majority&appName=Cluster0")
