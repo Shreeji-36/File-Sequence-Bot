@@ -64,7 +64,7 @@ class Bot(Client):
                 photo="https://i.ibb.co/DD956Gnp/7355641270-28087.jpg",
                 caption="**I ʀᴇsᴛᴀʀᴛᴇᴅ ᴀɢᴀɪɴ !**",
                 reply_markup=InlineKeyboardMarkup(
-                    [[InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url="https://t.me/cantarellabots")]]
+                    [[InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url="https://t.me/Cosmic_Bots")]]
                 )
             )
         except Exception as e:
