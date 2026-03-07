@@ -12,7 +12,7 @@ from aiohttp import web
 pyrogram.utils.MIN_CHANNEL_ID = -1002449417637
 
 name = """
-Files sequence bot started ✨ Credit:- @CantarellaBots
+<b>Fɪʟᴇs sᴇǫᴜᴇɴᴄᴇ ʙᴏᴛ sᴛᴀʀᴛᴇᴅ ✨\n Cʀᴇᴅɪᴛ:- Cᴏsᴍɪᴄ Bᴏᴛs</b>
 """
 
 class Bot(Client):
