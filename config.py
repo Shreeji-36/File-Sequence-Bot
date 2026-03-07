@@ -13,7 +13,7 @@ FSUB_PIC = os.environ.get("FSUB_PIC", "https://i.ibb.co/gbywcmVJ/7355641270-2808
 START_PIC =os.environ.get("START_PIC", "https://i.ibb.co/Nn7sYk5X/7355641270-28079.jpg")
 START_MSG = os.environ.get("START_MSG", "<b>Bᴀᴋᴀᴀᴀ...!!!{mention}</b> \n<blockquote><b><i>Iᴀᴍ ᴀ ᴀᴅᴠᴀɴᴄᴇ sᴇǫᴜᴇɴᴄᴇ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴅᴠᴀɴᴄᴇ ғᴇᴀᴛᴜʀᴇs. I ᴄᴀɴ sᴇǫᴜᴇɴᴄᴇ ʏᴏᴜʀ ғɪʟᴇs ᴇᴀsɪʟʏ ɪɴ ᴀ sᴇᴄᴏɴᴅ...!!</i></b></blockquote>\n
 <b>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : </b><a href='https://t.me/Prince_Vegeta_36'>𝗖𝗵𝗿𝗼𝗹𝗹𝗼</a>")
-ABOUT_TXT = os.environ.get("ABOUT_MESSAGE", "<i><b><blockquote>◈ ғᴏʀ ᴍᴏʀᴇ: <a href=https://t.me/Cosmic_Bots>Cᴏsᴍɪᴄ Bᴏᴛs</a>\n◈ Nᴇᴛᴡᴏʀᴋ: <a href=https://t.me/Galaxy_Networkk>Gᴀʟᴀxʏ Nᴇᴛᴡᴏʀᴋᴋ</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href='https://t.me/Prince_Vegeta_36'>𝗖𝗵𝗿𝗼𝗹𝗹𝗼</a>\n◈ ᴅᴀᴛᴀʙᴀsᴇ: <a href='https://www.mongodb.com/docs/'>ᴍᴏɴɢᴏ ᴅʙ</a>\n◈ ʟᴀɴɢᴜᴀɢᴇ: <a href='https://t.me/about_zani/117'>Pʏᴛʜᴏɴ</a></blockquote></b></i>")
+ABOUT_TXT = os.environ.get("ABOUT_MESSAGE", "<i><b><blockquote>◈ ғᴏʀ ᴍᴏʀᴇ: <a href=https://t.me/Cosmic_Bots>Cᴏsᴍɪᴄ Bᴏᴛs</a>\n◈ Nᴇᴛᴡᴏʀᴋ: <a href=https://t.me/Galaxy_Networkk>Gᴀʟᴀxʏ Nᴇᴛᴡᴏʀᴋᴋ</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href='https://t.me/Prince_Vegeta_36'>𝗖𝗵𝗿𝗼𝗹𝗹𝗼</a>\n◈ ᴅᴀᴛᴀʙᴀsᴇ: <a href='https://www.mongodb.com/docs/'>ᴍᴏɴɢᴏ ᴅʙ</a>\n◈ ʟᴀɴɢᴜᴀɢᴇ: <a href='https://docs.python.org/3/'>Pʏᴛʜᴏɴ</a></blockquote></b></i>")
 HELP_TXT =  os.environ.get("HELP_MESSAGE", "⁉️ Hᴇʟʟᴏ {mention} \n<blockquote expandable><b><i>➪ Iᴀᴍ ᴀ ᴘᴜʙʟɪᴄ ғɪʟᴇ(s) sᴇǫᴜᴇɴᴄᴇ ʙᴏᴛ I ᴄᴀɴ sᴇǫᴜᴇɴᴄᴇ ᴛʜᴇ ғɪʟᴇs ᴀɴᴅ ᴀʟsᴏ I ᴄᴀɴ sᴇɴᴅ ᴛʜᴀᴛ ғɪʟᴇs ɪɴ ᴅᴜᴍᴘ ᴄʜᴀɴɴᴇʟ. </i></b></blockquote>")
 TG_BOT_WORKERS = 10000
 FSUB_LINK_EXPIRY = 300
