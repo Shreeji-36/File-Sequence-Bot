@@ -107,7 +107,7 @@ async def settings_callback(client: Client, callback_query):
         elif cb_data == "about":
             user = await client.get_users(OWNER_ID)
             await callback_query.edit_message_media(
-                InputMediaPhoto("https://envs.sh/Wdj.jpg", ABOUT_TXT),
+                InputMediaPhoto("https://i.ibb.co/bM5fRFCz/7355641270-28524.jpg", ABOUT_TXT),
                 reply_markup=InlineKeyboardMarkup([
                     [InlineKeyboardButton("• back", callback_data="start"),
                      InlineKeyboardButton("close •", callback_data="close")]
@@ -117,7 +117,7 @@ async def settings_callback(client: Client, callback_query):
         elif cb_data == "help":
             await callback_query.edit_message_media(
                 InputMediaPhoto(
-                    "https://envs.sh/Wdj.jpg",
+                    "https://i.ibb.co/bM5fRFCz/7355641270-28524.jpg",
                     HELP_TXT.format(
                         first=callback_query.from_user.first_name,
                         last=callback_query.from_user.last_name or "",
