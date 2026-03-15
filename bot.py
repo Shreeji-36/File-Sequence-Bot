@@ -5,7 +5,7 @@ from pyrogram import Client
 from pyrogram.enums import ParseMode
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, BotCommand
 from config import *
-from Plugins.route import web_server
+from plugins.route import web_server
 import pyrogram.utils
 from aiohttp import web
 
