@@ -9,7 +9,7 @@ from Plugins.route import web_server
 import pyrogram.utils
 from aiohttp import web
 
-pyrogram.utils.MIN_CHANNEL_ID = -1003723410492
+pyrogram.utils.MIN_CHANNEL_ID = -1003847588714
 
 name = """
 <b>Fɪʟᴇs sᴇǫᴜᴇɴᴄᴇ ʙᴏᴛ sᴛᴀʀᴛᴇᴅ ✨\n Cʀᴇᴅɪᴛ:- Cᴏsᴍɪᴄ Bᴏᴛs</b>
